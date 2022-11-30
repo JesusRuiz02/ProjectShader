@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CubemapReplacementsConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CubemapReplacements>
+    <CubemapReplacement size="1024" is_split_format="false" is_night="false" code="hdri_h_aristea_wreck" description="Aristea Wreck" file_prefix = "aristea_wreck_" />
+    <CubemapReplacement size="1024" is_split_format="false" is_night="false" code="hdri_h_blouberg_sunrise" description="Blouberg Sunrise" file_prefix = "blouberg_sunrise_" />
+    <CubemapReplacement size="1024" is_split_format="false" is_night="false" code="hdri_h_cape_hill" description="Cape Hill" file_prefix = "cape_hill_" />
+    <CubemapReplacement size="1024" is_split_format="false" is_night="false" code="hdri_h_cedar_bridge" description="Cedar Bridge" file_prefix = "cedar_bridge_" />
+    <CubemapReplacement size="1024" is_split_format="false" is_night="false" code="hdri_h_cloud_layers" description="Cloud Layers" file_prefix = "cloud_layers_" />
+    <CubemapReplacement size="1024" is_split_format="false" is_night="false" code="hdri_h_cloud_layers_night" description="Cloud Layers Night" file_prefix = "cloud_layers_night_" />
+    <CubemapReplacement size="1024" is_split_format="false" is_night="false" code="hdri_h_kiara_dawn" description="Kiara Dawn" file_prefix = "kiara_dawn_" />
+    <CubemapReplacement size="1024" is_split_format="false" is_night="false" code="hdri_h_kiara_dawn_night" description="Kiara Dawn Night" file_prefix = "kiara_dawn_night_" />
+    <CubemapReplacement size="1024" is_split_format="false" is_night="false" code="hdri_h_kiara_morning" description="Kiara Morning" file_prefix = "kiara_morning_" />
+    <CubemapReplacement size="1024" is_split_format="false" is_night="false" code="hdri_h_mud_road" description="Mud Road" file_prefix = "mud_road_" />
+    <CubemapReplacement size="1024" is_split_format="false" is_night="false" code="hdri_h_table_mountain" description="Table Mountain" file_prefix = "table_mountain_" />
+    <CubemapReplacement size="1024" is_split_format="false" is_night="false" code="hdri_h_venice_dawn" description="Venice Dawn" file_prefix = "venice_dawn_" />
+    <CubemapReplacement size="1024" is_split_format="false" is_night="false" code="hdri_h_waterbuck_trail" description="Waterbuck Trail" file_prefix = "waterbuck_trail_" />
+  </CubemapReplacements>
+</CubemapReplacementsConfig>
